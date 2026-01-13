@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://razorpay-backend-931100197216.asia-south1.run.app/api";
 
 // CREATE AXIOS INSTANCE (BEST PRACTICE)
 const api = axios.create({
